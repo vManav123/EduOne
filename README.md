@@ -10,7 +10,7 @@ EduOne is Course selling Website and Android UI , which Provide courses for diff
 # Website UI/UX
 
 <p float="left">
-<img src = "https://github.com/vManav123/EduOne-Android-App-/blob/master/EduOne%20Images/Screenshot%20(21).png" width = "470" > <img src = "https://github.com/vManav123/EduOne-Android-App-/blob/master/EduOne%20Images/Screenshot%20(20).png" width = "470" > <img src = "https://github.com/vManav123/EduOne-Android-App-/blob/master/EduOne%20Images/Screenshot%20(18).png" width = "470" > <img src = "https://github.com/vManav123/EduOne-Android-App-/blob/master/EduOne%20Images/Screenshot%20(19).png" width = "470" >
+<img src = "https://github.com/vManav123/EduOne-Android-App-/blob/master/EduOne%20Images/Screenshot%20(21).png" width = "460" > <img src = "https://github.com/vManav123/EduOne-Android-App-/blob/master/EduOne%20Images/Screenshot%20(20).png" width = "460" > <img src = "https://github.com/vManav123/EduOne-Android-App-/blob/master/EduOne%20Images/Screenshot%20(18).png" width = "460" > <img src = "https://github.com/vManav123/EduOne-Android-App-/blob/master/EduOne%20Images/Screenshot%20(19).png" width = "460" >
 <p>
 
 ## Getting Started
